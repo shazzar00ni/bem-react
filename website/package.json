@@ -13,7 +13,7 @@
     "@docusaurus/preset-classic": "^3.5.0",
     "classnames": "^2.2.6",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^19.2.3"
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
